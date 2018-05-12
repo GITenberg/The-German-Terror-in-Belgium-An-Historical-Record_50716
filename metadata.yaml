@@ -1,10 +1,16 @@
 _repo: The-German-Terror-in-Belgium-An-Historical-Record_50716
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 50716-h/images/cover.jpg
 creator:
   author:
     agent_name: Toynbee, Arnold J.
     gutenberg_agent_id: '46056'
     url: http://www.gutenberg.org/2009/agents/46056
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50716#The-German-Terror-in-Belgium-An-Historical-Record
 gutenberg_issued: '2015-12-18'
 gutenberg_type: Text
 identifiers:
